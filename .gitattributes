@@ -1,0 +1,1 @@
+*.{png,jpg,jpeg,tif,tiff,key,pages,numbers,pdf,tar,gz,jar,zip,tgz,sqlite,ttf,woff,a,o} filter=lfs diff=lfs merge=lfs -text
